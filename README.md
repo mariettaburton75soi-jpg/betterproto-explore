@@ -1,0 +1,2 @@
+# betterproto-explore
+dnsmasq config
